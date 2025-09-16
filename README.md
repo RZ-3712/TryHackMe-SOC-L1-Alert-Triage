@@ -1,8 +1,10 @@
 # TryHackMe-SOC-L1-Alert-Triage
+🔗 [SOC L1 Alert Triage Room Link](https://tryhackme.com/room/socl1alerttriage)
 
 ## Objective
 
-The SOC L1 Alert Triage project aims to gain a strong understanding of the concept of an SOC alert, explore alert fields, statuses and classification. The project also includes an opportunity to perform alert triage as an L1 analyst and practice with real alerts and SOC workflows.
+The SOC L1 Alert Triage project aims to develop a comprehensive understanding of Security Operations Center (SOC) alerts, including their fields, statuses, and classifications. The project also provides hands-on experience performing alert triage as a Level 1 (L1) analyst, working with real alerts and standard SOC workflows.
+
 ### Skills Learned
 
 - Strong understanding of how alerts are generated when a specific event or sequence of events occurs.
@@ -16,11 +18,5 @@ The SOC L1 Alert Triage project aims to gain a strong understanding of the conce
 - Network analysis tools (such as Wireshark) for capturing and examining network traffic.
 - Telemetry generation tools to create realistic network traffic and attack scenarios.
 
-## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
-
-Every screenshot should have some text explaining what the screenshot is about.
-
-Example below.
-
-*Ref 1: Network Diagram*
+## Tasks
+Coming soon. 
