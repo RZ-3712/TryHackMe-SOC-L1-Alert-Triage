@@ -1,21 +1,16 @@
 # TryHackMe-SOC-L1-Alert-Triage
 
 ## Objective
-[Brief Objective - Remove this afterwards]
 
-The SOC L1 Alert Triage room aims to familiarizw with the concept of an SOC alert, explore alert fields, statuses and classification. The room also provides access to the SOC dashboard in the TryHackMe SIEM...
-
+The SOC L1 Alert Triage project aims to gain a strong understanding of the concept of an SOC alert, explore alert fields, statuses and classification. The project also includes an opportunity to perform alert triage as an L1 analyst and practice with real alerts and SOC workflows.
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+- Strong understanding of how alerts are generated when a specific event or sequence of events occurs.
+- Proficiency in alert properties such as time, name, severity, status, etc.
+- Ability to prioritize alerts.
+- Ability to perform alert triage.
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
 
 - Security Information and Event Management (SIEM) system for log ingestion and analysis.
 - Network analysis tools (such as Wireshark) for capturing and examining network traffic.
